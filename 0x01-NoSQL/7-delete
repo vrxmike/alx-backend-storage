@@ -1,2 +1,2 @@
 // remove all document with attr name equals to Holberton School
-db.school.deletemany({name: "Holberton school"})
+db.school.deleteMany({name: "Holberton school"})
